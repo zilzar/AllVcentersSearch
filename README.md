@@ -22,3 +22,4 @@ Keep-alive techniques
 Log in with the username and password entered in the vcenters in the JSON file. (The username and password must be the same in all vcenters)
 A VM name or the value in the name is entered, at least 3 characters long.
     
+https://drive.google.com/file/d/1x3BXhophDsPDtlB1gDm4cBxtJQGDmqje/view?usp=sharing
