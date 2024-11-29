@@ -1,0 +1,10 @@
+{
+    "vcenters": [
+        {"host": "vcenter.com"},
+        {"host": "vcenter1.com"},
+        {"host": "vcenter2.com"},
+        {"host": "vcenter3.com"},
+		{"host": "vcenter4.com"},
+		{"host": "vcenter5.com"}
+    ]
+}
